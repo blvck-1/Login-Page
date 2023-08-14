@@ -6,9 +6,10 @@
 }
 /* styling the body */
 body {
-    overflow: scroll;
+    overflow: hidden;
     box-sizing: inherit;
     background: linear-gradient(rgb(196, 12, 196), black);
+    height: max-content;
 }
 
 /* the class .header */
